@@ -621,6 +621,7 @@ size_loop: &
           aem_ca  = 0.0
           aem_co3 = 0.0
           aem_msa = 0.0
+          aem_so4 = 0.0
 
 	! compute number emissions
 	! first sum the mass-emissions/density
